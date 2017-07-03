@@ -5,3 +5,14 @@ h2.intro{
   color: blue;
   font-size: 24px;
 }
+.clickable {
+  cursor: pointer;
+  color: blue;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+.highlight{
+  border: 2px;
+  color: red;
+}
